@@ -334,7 +334,7 @@ if(isset($lte_options['font']) && isset($fonts_list[$lte_options['font']]))
 						echo "<li class='treeview ' ><a class='".($sel_app == $app->id ? 'active' : '')
                             ."' href='$local_path_to_root/index.php?application=".$app->id
                             ."'$acc[1]> <i class='fa fa-".$icon_root."'></i> <span style=''>" .($app->id == 'GL' ? 'البنوك والاستاذ العام' : $acc[0] ). " </span>
-                            	<span class='pull-right-container'> </span> </a> 
+                            	 </a> 
 
                             <ul class='treeview-menu andHere'>";
 							echo "<div class='closeIcon' onclick='closeIcon()'>x</div>";
@@ -344,7 +344,7 @@ if(isset($lte_options['font']) && isset($fonts_list[$lte_options['font']]))
 							foreach ($app->modules as $module)   {
 								if (isset($module->name)) {// If parent
 									echo "<li class='treeview '>
-									<a href='#'><span class='pull-right-container'> <i class='adjustMe fa fa-angle-left pull-right'></i> </span><i class='fa fa-".$kv_module_icon[$kv_small]."'></i>  " . _($module->name) . "
+									<a href='#'><span class='pull-right-container'> </span><i class='fa fa-".$kv_module_icon[$kv_small]."'></i>  " . _($module->name) . "
 									</a>";
 									echo "	<ul class='treeview-menu'>";
 								
@@ -531,6 +531,7 @@ $color_scheme = (isset($lte_options['color_scheme']) ? $lte_options['color_schem
 
 <?php if(get_company_pref('no_item_list') == 1 || get_company_pref('no_customer_list') ==1 || get_company_pref('no_supplier_list') == 1) { ?>
 			<link rel="stylesheet" href="<?php echo $path_to_root.'/themes/LTE/css/select2.min.css'; ?>">
+			
 			<script src="<?php echo $path_to_root.'/themes/LTE/js/select2.full.min.js' ; ?>"></script>
 			<script type="text/javascript">
 				$(function() {

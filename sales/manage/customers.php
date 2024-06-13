@@ -247,7 +247,7 @@ function customer_settings($selected_id)
 		label_row(_("Customer's Currency:"), $_POST['curr_code']);
 		hidden('curr_code', $_POST['curr_code']);				
 	}
-	sales_types_list_row(_("Sales Type/Price List:"), 'sales_type', $_POST['sales_type']);
+	sales_types_list_row(_("Sales Type/Price List"), 'sales_type', $_POST['sales_type']);
 
 	if($selected_id)
 		record_status_list_row(_("Customer status:"), 'inactive');
