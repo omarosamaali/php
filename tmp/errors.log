@@ -1,0 +1,111 @@
+[13-Jun-2024 08:47:49 Europe/Berlin] 0::connect_db_mysqli.inc:32:[before upgrade] Unhandled exception [1045]: Access denied for user 'wedatastore_front67'@'localhost' (using password: YES).
+[13-Jun-2024 08:48:08 Europe/Berlin] 0::connect_db_mysqli.inc:35:[before upgrade] Unhandled exception [1049]: Unknown database 'wedatastore_front67'.
+[13-Jun-2024 08:48:10 Europe/Berlin] 0::connect_db_mysqli.inc:35:[before upgrade] Unhandled exception [1049]: Unknown database 'wedatastore_front67'.
+[13-Jun-2024 08:48:22 Europe/Berlin] 0::connect_db_mysqli.inc:35:[before upgrade] Unhandled exception [1049]: Unknown database 'wedatastore_front67'.
+[13-Jun-2024 08:52:17 Europe/Berlin] 0::connect_db_mysqli.inc:35:[before upgrade] Unhandled exception [1049]: Unknown database 'wedatastore_front67'.
+[13-Jun-2024 08:52:21 Europe/Berlin] 0::connect_db_mysqli.inc:35:[before upgrade] Unhandled exception [1049]: Unknown database 'wedatastore_front67'.
+[13-Jun-2024 08:52:51 Europe/Berlin] 0:admin:kvcodes.inc:476: round(): Passing null to parameter #1 ($num) of type int|float is deprecated
+[13-Jun-2024 08:53:45 Europe/Berlin] 0:admin:kvcodes.inc:476: round(): Passing null to parameter #1 ($num) of type int|float is deprecated
+[13-Jun-2024 08:54:31 Europe/Berlin] 0:admin:kvcodes.inc:476: round(): Passing null to parameter #1 ($num) of type int|float is deprecated
+[13-Jun-2024 08:54:57 Europe/Berlin] 0:admin:kvcodes.inc:476: round(): Passing null to parameter #1 ($num) of type int|float is deprecated
+[13-Jun-2024 08:55:00 Europe/Berlin] 0:admin:kvcodes.inc:476: round(): Passing null to parameter #1 ($num) of type int|float is deprecated
+[13-Jun-2024 08:55:40 Europe/Berlin] 0:admin:kvcodes.inc:476: round(): Passing null to parameter #1 ($num) of type int|float is deprecated
+[13-Jun-2024 08:56:13 Europe/Berlin] 0:admin:kvcodes.inc:476: round(): Passing null to parameter #1 ($num) of type int|float is deprecated
+[13-Jun-2024 08:56:56 Europe/Berlin] 0:admin:kvcodes.inc:476: round(): Passing null to parameter #1 ($num) of type int|float is deprecated
+[13-Jun-2024 08:57:19 Europe/Berlin] 0:admin:kvcodes.inc:476: round(): Passing null to parameter #1 ($num) of type int|float is deprecated
+[13-Jun-2024 08:57:50 Europe/Berlin] 0:admin:kvcodes.inc:476: round(): Passing null to parameter #1 ($num) of type int|float is deprecated
+[13-Jun-2024 09:03:19 Europe/Berlin] 0:admin:kvcodes.inc:476: round(): Passing null to parameter #1 ($num) of type int|float is deprecated
+[13-Jun-2024 09:03:31 Europe/Berlin] 0:admin:header.inc:33: Undefined array key "projhttp://localhost/test1/index.php?application=proj"
+[13-Jun-2024 09:03:31 Europe/Berlin] 0:admin:header.inc:33: Attempt to read property "help_context" on null
+[13-Jun-2024 09:03:31 Europe/Berlin] 0:admin:ui_controls.inc:182: preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated
+[13-Jun-2024 09:03:31 Europe/Berlin] 0:admin:ui_controls.inc:189: str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+[13-Jun-2024 09:03:38 Europe/Berlin] 0:admin:header.inc:33: Undefined array key "projhttp://localhost/test1/index.php?application=proj"
+[13-Jun-2024 09:03:38 Europe/Berlin] 0:admin:header.inc:33: Attempt to read property "help_context" on null
+[13-Jun-2024 09:03:38 Europe/Berlin] 0:admin:ui_controls.inc:182: preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated
+[13-Jun-2024 09:03:38 Europe/Berlin] 0:admin:ui_controls.inc:189: str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+[13-Jun-2024 09:03:41 Europe/Berlin] 0:admin:kvcodes.inc:476: round(): Passing null to parameter #1 ($num) of type int|float is deprecated
+[13-Jun-2024 09:03:52 Europe/Berlin] 0:admin:header.inc:33: Undefined array key "projhttp://localhost/test1/index.php?application=proj"
+[13-Jun-2024 09:03:52 Europe/Berlin] 0:admin:header.inc:33: Attempt to read property "help_context" on null
+[13-Jun-2024 09:03:52 Europe/Berlin] 0:admin:ui_controls.inc:182: preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated
+[13-Jun-2024 09:03:52 Europe/Berlin] 0:admin:ui_controls.inc:189: str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+[13-Jun-2024 09:04:02 Europe/Berlin] 0:admin:header.inc:33: Undefined array key "projhttp://localhost/test1/index.php?application=proj"
+[13-Jun-2024 09:04:02 Europe/Berlin] 0:admin:header.inc:33: Attempt to read property "help_context" on null
+[13-Jun-2024 09:04:02 Europe/Berlin] 0:admin:ui_controls.inc:182: preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated
+[13-Jun-2024 09:04:02 Europe/Berlin] 0:admin:ui_controls.inc:189: str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+[13-Jun-2024 09:09:16 Europe/Berlin] 0:admin:header.inc:33: Undefined array key "projhttp://localhost/test1/index.php?application=proj"
+[13-Jun-2024 09:09:16 Europe/Berlin] 0:admin:header.inc:33: Attempt to read property "help_context" on null
+[13-Jun-2024 09:09:16 Europe/Berlin] 0:admin:ui_controls.inc:182: preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated
+[13-Jun-2024 09:09:16 Europe/Berlin] 0:admin:ui_controls.inc:189: str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+[13-Jun-2024 09:09:26 Europe/Berlin] 0:admin:header.inc:33: Undefined array key "projhttp://localhost/test1/index.php?application=proj"
+[13-Jun-2024 09:09:26 Europe/Berlin] 0:admin:header.inc:33: Attempt to read property "help_context" on null
+[13-Jun-2024 09:09:26 Europe/Berlin] 0:admin:ui_controls.inc:182: preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated
+[13-Jun-2024 09:09:26 Europe/Berlin] 0:admin:ui_controls.inc:189: str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+[13-Jun-2024 09:09:27 Europe/Berlin] 0:admin:header.inc:33: Undefined array key "projhttp://localhost/test1/index.php?application=proj"
+[13-Jun-2024 09:09:27 Europe/Berlin] 0:admin:header.inc:33: Attempt to read property "help_context" on null
+[13-Jun-2024 09:09:27 Europe/Berlin] 0:admin:ui_controls.inc:182: preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated
+[13-Jun-2024 09:09:27 Europe/Berlin] 0:admin:ui_controls.inc:189: str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+[13-Jun-2024 09:09:35 Europe/Berlin] 0:admin:header.inc:33: Undefined array key "projhttp://localhost/test1/index.php?application=proj"
+[13-Jun-2024 09:09:35 Europe/Berlin] 0:admin:header.inc:33: Attempt to read property "help_context" on null
+[13-Jun-2024 09:09:35 Europe/Berlin] 0:admin:ui_controls.inc:182: preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated
+[13-Jun-2024 09:09:35 Europe/Berlin] 0:admin:ui_controls.inc:189: str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+[13-Jun-2024 09:09:49 Europe/Berlin] 0:admin:kvcodes.inc:476: round(): Passing null to parameter #1 ($num) of type int|float is deprecated
+[13-Jun-2024 09:11:05 Europe/Berlin] 0:admin:header.inc:33: Undefined array key "projhttp://localhost/test1/index.php?application=proj"
+[13-Jun-2024 09:11:05 Europe/Berlin] 0:admin:header.inc:33: Attempt to read property "help_context" on null
+[13-Jun-2024 09:11:05 Europe/Berlin] 0:admin:ui_controls.inc:182: preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated
+[13-Jun-2024 09:11:05 Europe/Berlin] 0:admin:ui_controls.inc:189: str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+[13-Jun-2024 09:12:58 Europe/Berlin] 0:admin:header.inc:33: Undefined array key "projhttp://localhost/test1/index.php?application=proj"
+[13-Jun-2024 09:12:58 Europe/Berlin] 0:admin:header.inc:33: Attempt to read property "help_context" on null
+[13-Jun-2024 09:12:58 Europe/Berlin] 0:admin:ui_controls.inc:182: preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated
+[13-Jun-2024 09:12:58 Europe/Berlin] 0:admin:ui_controls.inc:189: str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+[13-Jun-2024 09:13:18 Europe/Berlin] 0:admin:header.inc:33: Undefined array key "projhttp://localhost/test1/index.php?application=proj"
+[13-Jun-2024 09:13:18 Europe/Berlin] 0:admin:header.inc:33: Attempt to read property "help_context" on null
+[13-Jun-2024 09:13:18 Europe/Berlin] 0:admin:ui_controls.inc:182: preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated
+[13-Jun-2024 09:13:18 Europe/Berlin] 0:admin:ui_controls.inc:189: str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+[13-Jun-2024 09:13:39 Europe/Berlin] 0:admin:header.inc:33: Undefined array key "projhttp://localhost/test1/index.php?application=proj"
+[13-Jun-2024 09:13:39 Europe/Berlin] 0:admin:header.inc:33: Attempt to read property "help_context" on null
+[13-Jun-2024 09:13:39 Europe/Berlin] 0:admin:ui_controls.inc:182: preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated
+[13-Jun-2024 09:13:39 Europe/Berlin] 0:admin:ui_controls.inc:189: str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+[13-Jun-2024 09:13:45 Europe/Berlin] 0:admin:header.inc:33: Undefined array key "projhttp://localhost/test1/index.php?application=proj"
+[13-Jun-2024 09:13:45 Europe/Berlin] 0:admin:header.inc:33: Attempt to read property "help_context" on null
+[13-Jun-2024 09:13:45 Europe/Berlin] 0:admin:ui_controls.inc:182: preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated
+[13-Jun-2024 09:13:45 Europe/Berlin] 0:admin:ui_controls.inc:189: str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+[13-Jun-2024 09:40:27 Europe/Berlin] 0:admin:kvcodes.inc:476: round(): Passing null to parameter #1 ($num) of type int|float is deprecated
+[13-Jun-2024 09:41:46 Europe/Berlin] 0:admin:kvcodes.inc:476: round(): Passing null to parameter #1 ($num) of type int|float is deprecated
+[13-Jun-2024 09:42:03 Europe/Berlin] 0:admin:kvcodes.inc:476: round(): Passing null to parameter #1 ($num) of type int|float is deprecated
+[13-Jun-2024 09:59:25 Europe/Berlin] 0:admin:kvcodes.inc:476: round(): Passing null to parameter #1 ($num) of type int|float is deprecated
+[13-Jun-2024 09:59:27 Europe/Berlin] 0:admin:kvcodes.inc:476: round(): Passing null to parameter #1 ($num) of type int|float is deprecated
+[13-Jun-2024 09:59:44 Europe/Berlin] 0:admin:kvcodes.inc:476: round(): Passing null to parameter #1 ($num) of type int|float is deprecated
+[13-Jun-2024 09:59:45 Europe/Berlin] 0:admin:kvcodes.inc:476: round(): Passing null to parameter #1 ($num) of type int|float is deprecated
+[13-Jun-2024 09:59:46 Europe/Berlin] 0:admin:kvcodes.inc:476: round(): Passing null to parameter #1 ($num) of type int|float is deprecated
+[13-Jun-2024 09:59:46 Europe/Berlin] 0:admin:kvcodes.inc:476: round(): Passing null to parameter #1 ($num) of type int|float is deprecated
+[13-Jun-2024 09:59:46 Europe/Berlin] 0:admin:kvcodes.inc:476: round(): Passing null to parameter #1 ($num) of type int|float is deprecated
+[13-Jun-2024 09:59:47 Europe/Berlin] 0:admin:kvcodes.inc:476: round(): Passing null to parameter #1 ($num) of type int|float is deprecated
+[13-Jun-2024 09:59:47 Europe/Berlin] 0:admin:kvcodes.inc:476: round(): Passing null to parameter #1 ($num) of type int|float is deprecated
+[13-Jun-2024 09:59:47 Europe/Berlin] 0:admin:kvcodes.inc:476: round(): Passing null to parameter #1 ($num) of type int|float is deprecated
+[13-Jun-2024 09:59:48 Europe/Berlin] 0:admin:kvcodes.inc:476: round(): Passing null to parameter #1 ($num) of type int|float is deprecated
+[13-Jun-2024 09:59:48 Europe/Berlin] 0:admin:kvcodes.inc:476: round(): Passing null to parameter #1 ($num) of type int|float is deprecated
+[13-Jun-2024 09:59:48 Europe/Berlin] 0:admin:kvcodes.inc:476: round(): Passing null to parameter #1 ($num) of type int|float is deprecated
+[13-Jun-2024 09:59:48 Europe/Berlin] 0:admin:kvcodes.inc:476: round(): Passing null to parameter #1 ($num) of type int|float is deprecated
+[13-Jun-2024 10:00:42 Europe/Berlin] 0:admin:kvcodes.inc:476: round(): Passing null to parameter #1 ($num) of type int|float is deprecated
+[13-Jun-2024 10:02:11 Europe/Berlin] 0:admin:kvcodes.inc:476: round(): Passing null to parameter #1 ($num) of type int|float is deprecated
+[13-Jun-2024 10:02:11 Europe/Berlin] 0:admin:kvcodes.inc:476: round(): Passing null to parameter #1 ($num) of type int|float is deprecated
+[13-Jun-2024 10:02:12 Europe/Berlin] 0:admin:kvcodes.inc:476: round(): Passing null to parameter #1 ($num) of type int|float is deprecated
+[13-Jun-2024 10:02:13 Europe/Berlin] 0:admin:kvcodes.inc:476: round(): Passing null to parameter #1 ($num) of type int|float is deprecated
+[13-Jun-2024 10:02:13 Europe/Berlin] 0:admin:kvcodes.inc:476: round(): Passing null to parameter #1 ($num) of type int|float is deprecated
+[13-Jun-2024 10:02:13 Europe/Berlin] 0:admin:kvcodes.inc:476: round(): Passing null to parameter #1 ($num) of type int|float is deprecated
+[13-Jun-2024 10:02:13 Europe/Berlin] 0:admin:kvcodes.inc:476: round(): Passing null to parameter #1 ($num) of type int|float is deprecated
+[13-Jun-2024 10:02:47 Europe/Berlin] 0:admin:kvcodes.inc:476: round(): Passing null to parameter #1 ($num) of type int|float is deprecated
+[13-Jun-2024 10:02:48 Europe/Berlin] 0:admin:kvcodes.inc:476: round(): Passing null to parameter #1 ($num) of type int|float is deprecated
+[13-Jun-2024 10:03:50 Europe/Berlin] 0:admin:kvcodes.inc:476: round(): Passing null to parameter #1 ($num) of type int|float is deprecated
+[13-Jun-2024 10:03:51 Europe/Berlin] 0:admin:kvcodes.inc:476: round(): Passing null to parameter #1 ($num) of type int|float is deprecated
+[13-Jun-2024 10:03:53 Europe/Berlin] 0:admin:kvcodes.inc:476: round(): Passing null to parameter #1 ($num) of type int|float is deprecated
+[13-Jun-2024 10:03:56 Europe/Berlin] 0:admin:kvcodes.inc:476: round(): Passing null to parameter #1 ($num) of type int|float is deprecated
+[13-Jun-2024 10:04:58 Europe/Berlin] 0:admin:kvcodes.inc:476: round(): Passing null to parameter #1 ($num) of type int|float is deprecated
+[13-Jun-2024 10:05:01 Europe/Berlin] 0:admin:kvcodes.inc:476: round(): Passing null to parameter #1 ($num) of type int|float is deprecated
+[13-Jun-2024 10:06:18 Europe/Berlin] 0:admin:kvcodes.inc:476: round(): Passing null to parameter #1 ($num) of type int|float is deprecated
+[13-Jun-2024 10:06:25 Europe/Berlin] 0:admin:kvcodes.inc:476: round(): Passing null to parameter #1 ($num) of type int|float is deprecated
+[13-Jun-2024 10:06:30 Europe/Berlin] 0:admin:kvcodes.inc:476: round(): Passing null to parameter #1 ($num) of type int|float is deprecated
+[13-Jun-2024 10:07:17 Europe/Berlin] 0:admin:kvcodes.inc:476: round(): Passing null to parameter #1 ($num) of type int|float is deprecated
+[13-Jun-2024 10:16:52 Europe/Berlin] 0:admin:kvcodes.inc:476: round(): Passing null to parameter #1 ($num) of type int|float is deprecated
+[13-Jun-2024 10:16:53 Europe/Berlin] 0:admin:kvcodes.inc:476: round(): Passing null to parameter #1 ($num) of type int|float is deprecated
+[13-Jun-2024 10:17:04 Europe/Berlin] 0:admin:kvcodes.inc:476: round(): Passing null to parameter #1 ($num) of type int|float is deprecated
